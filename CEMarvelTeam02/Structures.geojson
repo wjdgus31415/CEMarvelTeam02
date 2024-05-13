@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": 1,
+        "name": "Eiffel Tower",
+        "country": "France",
+        "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889. Locally nicknamed \"La dame de fer\", it was constructed as the centerpiece of the 1889 World's Fair, and to crown the centennial anniversary of the French Revolution. It was designated a monument historique in 1964, and was named part of a UNESCO World Heritage Site in 1991.",
+        "latitude": 48.858222,
+        "longitude": 2.2945,
+        "picture": "Eiffel Tower"
+    },
+    {
+        "id": 2,
+        "name": "Tower of Pisa",
+        "country": "Italy",
+        "description": "The Leaning Tower of Pisa, or simply the Tower of Pisa, is the campanile, or freestanding bell tower, of Pisa Cathedral. It is known for its nearly four-degree lean, the result of an unstable foundation. The tower is one of three structures in the Pisa's Cathedral Square, which includes the cathedral and Pisa Baptistry.",
+        "latitude": 43.723056,
+        "longitude": 10.396389,
+        "picture": "Tower of Pisa"
+    },
+    {
+        "id": 3,
+        "name": "Statue of Liberty",
+        "country": "USA",
+        "description": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor, within New York City. The copper statue, a gift to the U.S. from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue was dedicated on October 28, 1886.",
+        "latitude": 40.689167,
+        "longitude": -74.044444,
+        "picture": "Statue of Liberty"
+    },
+    {
+        "id": 4,
+        "name": "GwangHwaMun",
+        "country": "Korea",
+        "description": "Gwanghwamun is the main and largest gate of Gyeongbok Palace, in Jongno-gu, Seoul, South Korea. It is located at a three-way intersection at the northern end of Sejongno. As a landmark and symbol of Seoul's long history as the capital city during the Joseon Dynasty, the gate has gone through multiple periods of destruction and disrepair. The most recent large-scale restoration work on the gate was finished and it was opened to the public on August 15, 2010.",
+        "latitude": 37.576022,
+        "longitude": 126.9769,
+        "picture": "GwangHwaMun"
+    }
+ ]
